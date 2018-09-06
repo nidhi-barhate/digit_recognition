@@ -4,6 +4,7 @@ Simple demo for handwritten digit recognition using OpenCV, Keras, CNN
 
 <ul>
   <li>Network used : Convolutional Network</li>
+  <li>Dataset : MNIST Dataset</li>
   <li>Framework used : Tensorflow</li>
   <li>API used : Keras</li>
   <li>Pixel size : 784</li>
