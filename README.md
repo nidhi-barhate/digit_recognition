@@ -1,4 +1,4 @@
-# Digit Recognition
+# Handwritten Digit Recognition using Deep Learning
 Simple demo for handwritten digit recognition using OpenCV, Keras, CNN
 
 
