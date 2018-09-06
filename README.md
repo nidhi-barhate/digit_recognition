@@ -1,4 +1,4 @@
-# digit_recognition
+# Digit Recognition
 Simple demo for handwritten digit recognition using OpenCV, Keras, CNN
 
 
